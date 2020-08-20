@@ -1,0 +1,4 @@
+step 1. go to anaconda.com/products/induvidual
+step 2. click download
+step 3. download the 64 bit version for your OS
+step 4 install all the app in the anaconda3 package
